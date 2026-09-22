@@ -13,6 +13,12 @@
 
 [Требования к проекту.](https://github.com/bulat-chu/cabbageworm/blob/438c519f03f70069e5244905f03ac084986d7a54/story/requirements.md)
 
+Техническая реализация.
+
 [Верхняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/e95954d32f2fb60168273eb0e5be0a27a8b1abf3/story/lid.md)
 
 [Нижняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/830c50bb7a0d1372bfa62e513a608eaca2b40df1/story/base.md)
+
+[WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
+
+[USB-адаптер клавиатуры](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter)
