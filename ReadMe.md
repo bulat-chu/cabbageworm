@@ -12,8 +12,9 @@
 Философия данного проекта - оставить по максимуму оригинальные комплектующие и функционал.
 
 [Требования к проекту.](https://github.com/bulat-chu/cabbageworm/blob/438c519f03f70069e5244905f03ac084986d7a54/story/requirements.md)
-
-Техническая реализация.
+</br>
+</br>
+Техническая реализация:
 
 [Верхняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/e95954d32f2fb60168273eb0e5be0a27a8b1abf3/story/lid.md)
 
