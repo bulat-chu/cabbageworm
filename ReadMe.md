@@ -24,3 +24,5 @@
 4. [WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
 
 5. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter) или [2](https://github.com/bulat-chu/ThinkPad-Classic-Keyboard-USB-Adapter)
+
+6. Touchpad - ещё не реализована поддержка (а нужен ли он вообще?)
