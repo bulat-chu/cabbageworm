@@ -35,11 +35,11 @@
 
 Тут я решил помимо исправлений предыдущих косяков поменять структуру рёбер жёсткости и вид отверстий для вентиляции по примеру оригинального framework и thinkpad. Так же было добавлено место под динамики формфактора 3525 (35мм х 25мм), ибо родное от framework не помещается.
 
-Пока прототип не изготовлен, прошу любоваться 3д моделью:
 <img width="1024" height="802" alt="image" src="https://github.com/user-attachments/assets/b518105e-7126-445a-9c58-c9d72f5567ba" />
 
+<img width="3569" height="2983" alt="IMG_20260925_212509_1" src="https://github.com/user-attachments/assets/fef62334-54b5-4777-99c2-f9e6e57bca25" />
 
-<Добавить фото.>
+<img width="3824" height="2620" alt="IMG_20260925_212116_1" src="https://github.com/user-attachments/assets/ab9eb672-b5f7-4daf-bdb4-eadd89e300aa" />
 
 В целом, испытания второго прототипа прошли успешно.
 
