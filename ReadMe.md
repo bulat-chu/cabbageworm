@@ -6,7 +6,7 @@
 
 Именно с этой мыслю я начал свой проект по модернизации старого X201 Tablet.
 
-<img width="2967" height="3446" alt="IMG_20260925_213420_1" src="https://github.com/user-attachments/assets/41098c98-2c99-4ec3-8f94-420c32b14eb8" />
+<img width="1484" height="1723" alt="IMG_20260925_213420_1" src="https://github.com/user-attachments/assets/41098c98-2c99-4ec3-8f94-420c32b14eb8" />
 
 - - -
 Философия данного проекта - оставить по максимуму оригинальные комплектующие и функционал.
