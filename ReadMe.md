@@ -11,18 +11,18 @@
 - - -
 Философия данного проекта - оставить по максимуму оригинальные комплектующие и функционал.
 
-1. [Требования к проекту.](https://github.com/bulat-chu/cabbageworm/blob/438c519f03f70069e5244905f03ac084986d7a54/story/requirements.md)
+1. [Требования к проекту.](https://github.com/bulat-chu/cabbageworm/blob/main/story/requirements.md)
 </br>
 </br>
 </br>
 Техническая реализация:
 
-2. [Верхняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/e95954d32f2fb60168273eb0e5be0a27a8b1abf3/story/lid.md)
+2. [Верхняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/main/story/lid.md)
 
-3. [Нижняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/830c50bb7a0d1372bfa62e513a608eaca2b40df1/story/base.md)
+3. [Нижняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/main/story/base.md)
 
-4. [WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
+5. [WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
 
-5. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter) или [2](https://github.com/bulat-chu/ThinkPad-Classic-Keyboard-USB-Adapter)
+6. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter) или [2](https://github.com/bulat-chu/ThinkPad-Classic-Keyboard-USB-Adapter)
 
-6. Touchpad - ещё не реализована поддержка (а нужен ли он вообще?)
+7. Touchpad - ещё не реализована поддержка (а нужен ли он вообще?)
