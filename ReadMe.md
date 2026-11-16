@@ -26,7 +26,7 @@
 
 5. [WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
 
-6. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter).
+6. [USB-адаптер клавиатуры](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter).
 
 7. Подключение сканера отпечатка пальцев.
 
