@@ -8,6 +8,9 @@
 
 <img width="1484" height="1723" alt="IMG_20260925_213420_1" src="https://github.com/user-attachments/assets/41098c98-2c99-4ec3-8f94-420c32b14eb8" />
 
+<img width="1391" height="1758" alt="IMG_20261115_185300_1" src="https://github.com/user-attachments/assets/2a03ee56-55ef-44c3-8ce2-7206b83fad30" />
+
+
 - - -
 Философия данного проекта - оставить по максимуму оригинальные комплектующие и функционал.
 
