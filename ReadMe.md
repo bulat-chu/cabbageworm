@@ -19,10 +19,12 @@
 
 2. [Верхняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/main/story/lid.md)
 
-3. [Нижняя половина ноутбука.](https://github.com/bulat-chu/cabbageworm/blob/main/story/base.md)
+3. Нижняя половина ноутбука [часть 1](https://github.com/bulat-chu/cabbageworm/blob/main/story/base1.md), [часть 2.](https://github.com/bulat-chu/cabbageworm/blob/main/story/base2.md).
 
 5. [WACOM EMR](https://github.com/bulat-chu/WACOM-ThinkPad-X60T-Digitizer/blob/main/SU-1208E-01X.md)
 
-6. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter) или [2](https://github.com/bulat-chu/ThinkPad-Classic-Keyboard-USB-Adapter)
+6. USB-адаптер клавиатуры: [1](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter).
 
-7. Touchpad - ещё не реализована поддержка (а нужен ли он вообще?)
+7. Подключение сканера отпечатка пальцев.
+
+8. Touchpad - ещё не реализована поддержка (а нужен ли он вообще?)
