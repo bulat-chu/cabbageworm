@@ -6,6 +6,8 @@
 
 Именно с этой мыслю я начал свой проект по модернизации старого X201 Tablet.
 
+[Микровидео](https://www.youtube.com/shorts/zq35p_1nrDo).
+
 <img width="742" height="862" alt="IMG_20260925_213420_1" src="https://github.com/user-attachments/assets/41098c98-2c99-4ec3-8f94-420c32b14eb8" />
 
 <img width="796" height="859" alt="IMG_20261115_185300_1" src="https://github.com/user-attachments/assets/2a03ee56-55ef-44c3-8ce2-7206b83fad30" />
