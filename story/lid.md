@@ -59,6 +59,9 @@
 
 Теперь подключаем кабели, выводим их и закрываем.
 
+<img width="1851" height="1536" alt="IMG_20261115_170639_1" src="https://github.com/user-attachments/assets/9b760d5b-bc5a-48b8-a5b5-64fd3fa73866" />
+
+
 <img width="1802" height="1480" alt="IMG_20261115_172352_1" src="https://github.com/user-attachments/assets/0fa5ff41-9e15-4879-beaf-6b026bce7ef0" />
 
 ---
