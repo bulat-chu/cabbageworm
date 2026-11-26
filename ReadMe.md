@@ -38,7 +38,7 @@
 
 6. [USB-адаптер клавиатуры](https://github.com/bulat-chu/Thinkpad-X6x-X20x-keyboard-USB-Adapter).
 
-7. Подключение сканера отпечатка пальцев. (добавить информацию, пока не забыл, 3ий и 4ый пины ? )
+7. [Подключение сканера отпечатка пальцев.](https://github.com/bulat-chu/cabbageworm/blob/main/other/fingerprint.md)
 
 8. [Ещё один адаптер - между коннектором клавиатуры framework и остальными устройствами](https://github.com/bulat-chu/framework-input-connector-usb-hub).
 
